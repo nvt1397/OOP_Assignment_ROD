@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BackgroundMusic" Collapsed="true">
+    <Position X="50.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\BackgroundMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeeMobSpawn" Collapsed="true">
+    <Position X="52" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAgAAAAAAAAABAAAAAAAASAM=</HashCode>
+      <FileName>Assets\Scripts\BeeMobSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bigger" Collapsed="true">
+    <Position X="53.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Bigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BreakableChasingOrb" Collapsed="true">
+    <Position X="55.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEIAAAAAABAEAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\BreakableChasingOrb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChasingOrb" Collapsed="true">
+    <Position X="52" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAIAEBAAAAAABAEAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChasingOrb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DropObject" Collapsed="true">
+    <Position X="55.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAEAABAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DropObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bat" Collapsed="true">
+    <Position X="34.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAACAAAAAECAAAAAAAAAAAAQAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Bat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDemon" Collapsed="true">
+    <Position X="43.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAQACAAAAAAAIAIAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\BigDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BombDrop" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQAAAAAACAgAAAAAAAAAAAAAAAAAAAQAM=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\BombDrop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bug" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAgAACAAAAAAAIAAAAAAAAAAAQAAAAAACAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Bug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bush_ghost" Collapsed="true">
+    <Position X="57.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAIAAAAEgIAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\bush_ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crab" Collapsed="true">
+    <Position X="18.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAEIAABAAAAIAAAAIAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Crab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Enemy.EnemyStat" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Enemy Scripts\Enemy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAQCAAAgCAAAAAAAAAAAAAAAABAAAICAgAAQA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EnemyHeathBar" Collapsed="true">
+    <Position X="57.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAgBAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\EnemyHeathBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyHero" Collapsed="true">
+    <Position X="36.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAKECAAAAUIAAAAAAAMAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\EnemyHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeBat" Collapsed="true">
+    <Position X="45.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAEAIBCAIBAAAAIAAAAEgAAgCAUAAAAwAACAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\EyeBat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FireSkull" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAIQAIAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\FireSkull.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAgAAAAAAAAAAIAAAACAAFAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ghost_sin" Collapsed="true">
+    <Position X="50.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIAAAAAAAAAAAAEBgAQABAABgAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\ghost_sin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GhostMage" Collapsed="true">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQeACBACCQhQBQIEMAAAAAAAIwjAAAgAwgAAAAIRAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\GhostMage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grow" Collapsed="true">
+    <Position X="25.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAAAIAAAAAAAFAAAQAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Grow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HellBeast" Collapsed="true">
+    <Position X="29.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAABBAiEGAAAAAIAAAAAAAAgAAAAAAAAACCgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\HellBeast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorizontalChase" Collapsed="true">
+    <Position X="38.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAIAAAAAAAIAAAAAAQAAAAQAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\HorizontalChase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mage" Collapsed="true">
+    <Position X="47.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAQAAAiUGAAAAMMAAACAQAEQAAAAAAAAACAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Mage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniSkeleton" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\MiniSkeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mon" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKEAAAAAAIAAEAAAAEAAAQAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Mon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plant" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAACAIAAAAAAAIAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shadow" Collapsed="true">
+    <Position X="23" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAABAAAAAAAAAIAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Shadow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skeleton">
+    <Position X="27.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAKAAAAAAAIEAgCAAAEAAAwCAAAAACAAEBAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Skeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkullGhost" Collapsed="true">
+    <Position X="32" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQgAAAAAKIAAAAEAIAAAAAAAAAAAQAIAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\SkullGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slug" Collapsed="true">
+    <Position X="41" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACAAAAAAAIAAAABAQAABAQAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Slug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeBatShot" Collapsed="true">
+    <Position X="59" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGQAAAAAAAAAAIAEAAAAAAAAAEAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\EyeBatShot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fire_of_man" Collapsed="true">
+    <Position X="55.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIIAEAAAAAAAAAEAAAAAhBAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\fire_of_man.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fire_of_shadow" Collapsed="true">
+    <Position X="57.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAoAAAAAAAIAAAEAAAQABAAAAAAAIAEA=</HashCode>
+      <FileName>Assets\Scripts\fire_of_shadow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalBoss" Collapsed="true">
+    <Position X="53.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAABABQAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level Scripts\FinalBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="loadLevel" Collapsed="true">
+    <Position X="52" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAgEAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level Scripts\loadLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PreLoad" Collapsed="true">
+    <Position X="57.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Level Scripts\PreLoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resume" Collapsed="true">
+    <Position X="59" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAACAAAAAAAAAgAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level Scripts\Resume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraFollow" Collapsed="true">
+    <Position X="59" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAIAAAABAAAAABAAYAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColliderCheck" Collapsed="true">
+    <Position X="50.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAgBAAAEAAAAAAAEAAEAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\ColliderCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeathMenu" Collapsed="true">
+    <Position X="53.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAACAAAAAIAAAAgAQAAABAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\DeathMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fireball" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAAAAgAAAIAEAAAAAAAAAEAAIAABAAAAAAAAAUI=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\Fireball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FireShield" Collapsed="true">
+    <Position X="59" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\FireShield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FullPowerBall" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\FullPowerBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="55.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAAAAAAAEAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainPlayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="57.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgBAAAKAAAAEEAIABAACAAAAAAAAEAQAADAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\MainPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MainController" Collapsed="true">
+    <Position X="53.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEsACyECAAAcAEAEAAAAAAQEAQAhAYggAAggCAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\MainPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu" Collapsed="true">
+    <Position X="52" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAEAAACAAAAAAAAAAAAAAgAAAAAAAKAAAAAgAIAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStat" Collapsed="true">
+    <Position X="55.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AARAAAAAACAAAAAAAAAAAAAAAAAAAAABABACAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Main Scripts\PlayerStat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Saw" Collapsed="true">
+    <Position X="50.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StraightProjectile" Collapsed="true">
+    <Position X="52" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAgAAAAAAAAAAAAAAAAAAEAAAQABAAAAAAAIAEA=</HashCode>
+      <FileName>Assets\Scripts\StraightProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FallingPlatform" Collapsed="true">
+    <Position X="50.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Trap\FallingPlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fallTrap" Collapsed="true">
+    <Position X="52" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAACAAAAAQACAAAAAAAAAAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Trap\fallTrap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovingPlatform" Collapsed="true">
+    <Position X="59" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAICiAiQAAAAAAAAABgAIALAQAAEgAAAAEEAAA=</HashCode>
+      <FileName>Assets\Scripts\Trap\MovingPlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="parabol_s" Collapsed="true">
+    <Position X="50.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgIAIAAAAAAAhBAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Trap\parabol_s.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pendulum" Collapsed="true">
+    <Position X="53.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAACAAAAABAAAAAAAAAEAAAAAAAAAAAAAASAA=</HashCode>
+      <FileName>Assets\Scripts\Trap\Pendulum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IKillable" Collapsed="true">
+    <Position X="50.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
